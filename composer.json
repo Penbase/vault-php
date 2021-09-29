@@ -15,7 +15,7 @@
     "require": {
         "psr/cache": "^1.0",
         "psr/log": "^1.0",
-        "cache/cache": "^1.0",
+        "cache/cache": "dev-master#83fabc5bad8b90f7981c97898345df8935b0bf55",
         "guzzlehttp/psr7": "^1.4",
         "guzzlehttp/promises": "^1.3",
         "doctrine/inflector": "~1.1",
